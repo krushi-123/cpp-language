@@ -25,5 +25,5 @@ int main()
 
     cout<<"Area of Square : "<<a.ar(9)<<endl;
     cout<<"Area of Circle : "<<a.ar(3.14,2)<<endl;
-    cout<<"Area of Circle : "<<a.ar(4, 5, 2)<<endl;
+    cout<<"Area of Triangle : "<<a.ar(4, 5, 2)<<endl;
 }
